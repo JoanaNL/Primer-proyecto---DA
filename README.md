@@ -5,7 +5,8 @@
 
 He empezado por crear un repositorio y en una ruta local. He enlazado mi repositorio local de mi pc con mi repositorio en GitHub.
 He adquirido las bases de datos principalmente desde Kaggle y del INE.
-
+Mi interés por el problema de la vivienda en España en los últimos años me ha llevado a hacer un análisis sobre este tema aunque no he sabido sacarle todo el jugo.
+Es un tema recurrente pero que a la vez afecta a muchas personas incluida a mi, el poder comprar una vivienda hoy en día es un lujo al alcance de muy pocos.
 
 ---------------------------------------------------------------------
 
@@ -63,7 +64,7 @@ Algunas tablas las he dejado sueltas, por ejemplo, la de PIB per cápita y las h
 
 # Visualización en Power BI:
 
-En Python no he sabido hacer visualizaciones con gráficos y me iba a llevar más tiempo hacerlo, por ese motivo he tenido que saltarme ese paso.
+En Python no he sabido hacer visualizaciones con gráficos adecuados y me iba a llevar más tiempo hacerlo, por ese motivo he tenido que saltarme ese paso.
 
 Después de terminar en Python los datasets los he importado inicialmente a Tableau, pero viendo los problemas y errores que me da constantemente el programa he tenido que importar los CSV a Power BI y realizar de visualizaciones desde ahí.
 
@@ -92,13 +93,13 @@ Después de terminar en Python los datasets los he importado inicialmente a Tabl
 
 	*Cuarto plot*:
 
-	Por último, en el gráfico de mapa coroplético colocado a la izquierda podemos ver diferentes círculos de colores, unos más grandes y otros más pequeños, esos círculos indican el promedio de precios de la vivienda por región y 	permite hacer una comparación con tan solo pasar el puntero del ratón por encima de cada circulo de colores y adicionalmente junto a ese mapa, a la derecha se puede ver una tabla con información sobre vivienda general, nueva y 	de segunda mano, donde también se muestra el periodo por comunidades e índices y tasas con variación media anual junto con el promedio total detallado.
+	Por último, en el gráfico de mapa coroplético colocado a la izquierda podemos ver diferentes círculos de colores, unos más grandes y otros más pequeños, esos círculos indican el promedio de precios de la vivienda por región y permite hacer una comparación con tan solo pasar el puntero del ratón por encima de cada circulo de colores y adicionalmente junto a ese mapa, a la derecha se puede ver una tabla con información sobre vivienda general, nueva y de segunda mano, donde también se muestra el periodo por comunidades e índices y tasas con variación media anual junto con el promedio total detallado.
 
 ---------------------------------------------------------------------------------
 
 # Conclusión:
 
-Ver una evolución progresiva del precio en el mercado de la vivienda en España, detectar y analizar tendencias y patrones sobre este tema, ver en qué zonas es más fácil adquirir una vivienda, ya sea nueva o de segunda mano, comparativa PIB por año, regiones, edad media de población, etc... Visualizar una comparación, promedio o mediana año tras año del precio, también la suma del periodo por comunidades autónomas, etc... Tras el análisis realizado, se ha tratado de dar respuesta de una manera precisa y eficiente.
+He visto una evolución progresiva del precio al alza en el mercado de la vivienda en España, he podido detectar y analizar tendencias y patrones negativos porque a parte de las grandes ciudades como Madrid o Barcelona también se está encareciendo demasiado en otras zonas como Pais Vasco, Comunidad Valenciana e Islas Baleares, entre otros... y esto se traduce en que hace unos años antes de la pandemia en esas zonas no era tan exagerado y en los últimos años eso ha cambiado, con lo cuál por el momento no parece que la situación en cuanto a precio, PIB per capita y variables vaya a cambiar demasiado a medio o corto plazo.
 
 
 ------------------------------------------------------
