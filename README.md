@@ -27,7 +27,7 @@ He adquirido las bases de datos principalmente desde Kaggle y del INE.
 
     	Un gráfico de correlación entre PIB y precio medio de la vivienda por CCAA.
     	Un gráfico de evolución progresiva para cada región y año.
-	Ver el PIB per capita por regiones.
+	Ver el PIB per cápita por regiones.
 	Promedio de vivienda por año y CCAA.
 
 
@@ -44,20 +44,20 @@ He adquirido las bases de datos principalmente desde Kaggle y del INE.
 
 # Extracción y exploración de datos:
 
-	He explorado y extraido datos de las bases de datos que conseguido en Kaggle e INE sobre la vivienda en España.
+	He explorado y extraído datos de las bases de datos que conseguido en Kaggle e INE sobre la vivienda en España.
 	He utilizado código, funciones y variables que hemos ido viendo en clases para extraer datos en Python.
 
 # Transformación:
 
-	He eliminado columnas y filas con valores nulos, también filas duplicadas y reiniciado indice de dataframe.
+	He eliminado columnas y filas con valores nulos, también filas duplicadas y reiniciado índice de dataframe.
 	He aplicado código/función que cuenta los valores nulos en cada columna.
 	He convertido el DataFrame a un DataFrame de pandas.
 	He hecho estadística descriptiva en todas las columnas.
 	Información general del dataframe.
 
 # Unión de tablas/BBDD de CSV:
-Posteriormente, una vez explorado, extraido y transformado los datos de las BBDD, he querido unir cada una de ellas en una sola BBDD.
-Algunas tablas las he dejado sueltas, por ejemplo, la de PIB per capita y las he importado a Power BI para las visualizaciones.
+Posteriormente, una vez explorado, extraído y transformado los datos de las BBDD, he querido unir cada una de ellas en una sola BBDD.
+Algunas tablas las he dejado sueltas, por ejemplo, la de PIB per cápita y las he importado a Power BI para las visualizaciones.
 
 ---------------------------------------------------------------------
 
@@ -76,29 +76,29 @@ Después de terminar en Python los datasets los he importado inicialmente a Tabl
 
 	*Segundo plot*:
 
-	En la gràfica de la izquierda que es de tabla se indica los datos de CCAA, edad media de la población, promedio de edades de población desde menores hasta jubilados.
+	En la gráfica de la izquierda que es de tabla se indica los datos de CCAA, edad media de la población, promedio de edades de población desde menores hasta jubilados.
 
-	En la gràfica de la derecha, de barras apiladas, podemos ver el promedio de edades por cada región o comunidad autònoma, el Principado de Asturias es la región con edad media más alta y por el contrario Melilla es la que tiene 	una edad media menor al resto. Se puede clicar una a una en las barras apilades para ver información y detalle sobre edad media de cada región.
+	En la gráfica de la derecha, de barras apiladas, podemos ver el promedio de edades por cada región o comunidad autónoma, el Principado de Asturias es la región con edad media más alta y por el contrario Melilla es la que tiene 	la edad media menor al resto. Se puede clicar una a una en las barras apiladas para ver información y detalle sobre edad media de cada región.
 
-	Por último, el gràfico anillo/circular en la parte inferior del dashboard muestra el promedio de población por año, si clicamos año tras año en el recuadro de la izquierda veremos como cambian los gráficos.
+	Por último, el gráfico anillo/circular en la parte inferior del dashboard muestra el promedio de población por año, si clicamos año tras año en el recuadro de la izquierda veremos como cambian los gráficos.
 
 
 	*Tercer plot*:
 
-	Tenemos a la izquierda una tabla de segmentación de datos, dónde podemos seleccionar por CCAA o región, una a una, y automàticamente el mapa muestra en punto/zona del mapa està esa comunidad.
+	Tenemos a la izquierda una tabla de segmentación de datos, dónde podemos seleccionar por CCAA o región, una a una, y automáticamente el mapa muestra en punto/zona del mapa está esa comunidad.
 
-	En el gráfico del centro es una mapa coroplético, donde se puede ver las comunidades autónomas por colores y si clicamos en cada una de las CCAA se puede ver el PIB per capita y automaticamente queda destacado y señalado también 	en el gràfico colocado de la derecha.
+	En el gráfico del centro es una mapa coroplético, donde se puede ver las comunidades autónomas por colores y si clicamos en cada una de las CCAA se puede ver el PIB per cápita y automáticamente queda destacado y señalado también 	en el gráfico colocado de la derecha.
 
 
 	*Cuarto plot*:
 
-	Por último, en el gráfico de mapa coroplético colocado a la izquierda podemos ver diferentes circulos de colores, unos más grandes y otros más pequeños, esos circulos indican el promedio de precios de la vivienda por región y 	permite hacer una comparación con tan solo pasar el puntero del ratón por encima de cada circulo de colores y adicionalmente junto a ese mapa, a la derecha se puede ver una tabla con información sobre vivienda general, nueva y 	de segunda mano, donde también se muestra el periodo por comunidades e indices y tasas con variación media anual junto con el promedio total detallado.
+	Por último, en el gráfico de mapa coroplético colocado a la izquierda podemos ver diferentes círculos de colores, unos más grandes y otros más pequeños, esos círculos indican el promedio de precios de la vivienda por región y 	permite hacer una comparación con tan solo pasar el puntero del ratón por encima de cada circulo de colores y adicionalmente junto a ese mapa, a la derecha se puede ver una tabla con información sobre vivienda general, nueva y 	de segunda mano, donde también se muestra el periodo por comunidades e índices y tasas con variación media anual junto con el promedio total detallado.
 
 ---------------------------------------------------------------------------------
 
-# Hipotesis:
+# Conclusión:
 
-Ver una evolución progresiva del precio en el mercado de la vivienda en España, detectar y analizar tendencias y patrones sobre este tema, ver en qué zonas es más fácil adquirir una vivienda, ya sea nueva o de segunda mano, comparativa PIB por año, regiones, edad media de población, etc... Visualizar una comparación, promedio o mediana año tras año del precio, también la suma del periodo por comunidades autónomas, etc... Tras el anàlisis realizado, se ha tratado de dar respuesta de una manera precisa y eficiente.
+Ver una evolución progresiva del precio en el mercado de la vivienda en España, detectar y analizar tendencias y patrones sobre este tema, ver en qué zonas es más fácil adquirir una vivienda, ya sea nueva o de segunda mano, comparativa PIB por año, regiones, edad media de población, etc... Visualizar una comparación, promedio o mediana año tras año del precio, también la suma del periodo por comunidades autónomas, etc... Tras el análisis realizado, se ha tratado de dar respuesta de una manera precisa y eficiente.
 
 
 ------------------------------------------------------
