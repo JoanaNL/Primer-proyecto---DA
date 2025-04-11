@@ -1,5 +1,5 @@
 # Primer-proyecto---DA:
-Proyecto 1 Análisis de Datos - 11 de abril 2025 -
+Proyecto 1 - Mercado de la Vivienda en España - 11 de abril 2025 -
 
 # Proyecto sobre vivienda en España por CC.AA./Nacional #:
 
@@ -59,5 +59,7 @@ Algunas tablas las he dejado sueltas, por ejemplo, la de PIB per capita que est�
 # Visualización en Power BI
 
 Como he visto que Tableau me daba error constantemente, hice las visualizaciones finalmente en Power BI.
+
+
 
 
